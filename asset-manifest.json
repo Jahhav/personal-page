@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/personal-page/static/css/main.c6339039.css",
+    "main.js": "/personal-page/static/js/main.50d0e4c9.js",
+    "static/media/travelImage.png": "/personal-page/static/media/travelImage.369cfa2d6f73e1525e95.png",
+    "static/media/shopImage.png": "/personal-page/static/media/shopImage.d905ef188e7c3ac64726.png",
+    "static/media/companyImage.png": "/personal-page/static/media/companyImage.a9d5e9734dd9d3f49d07.png",
+    "static/media/[removal.ai]_2545570f-b104-4207-8acf-a00cf2c25f42-profilovka_PAB6CX.png": "/personal-page/static/media/[removal.ai]_2545570f-b104-4207-8acf-a00cf2c25f42-profilovka_PAB6CX.b1fbc91ed11f2dae5062.png",
+    "index.html": "/personal-page/index.html",
+    "main.c6339039.css.map": "/personal-page/static/css/main.c6339039.css.map",
+    "main.50d0e4c9.js.map": "/personal-page/static/js/main.50d0e4c9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c6339039.css",
+    "static/js/main.50d0e4c9.js"
+  ]
+}
